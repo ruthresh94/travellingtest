@@ -271,23 +271,21 @@ footer {
     padding-right: 15px;
 }
 .navbar-nav a {
-    color: black;
-    font-weight: 500;
+    color: white;
   }
   .nav-link active mx-2{
     color: #090706;
   }
   
   .navbar-nav .nav-item a.nav-link[href="#home"] {
-    color: black;
+    color: white;
   }
   .navbar-nav .nav-item a.nav-link[href="#home"]:hover {
     color: rgb(255, 255, 255);
 
   }
   .navbar-nav .nav-item a.nav-link[href="#destination"] {
-    color: rgb(44, 35, 35);
-    font-weight: 800;
+    color: white;
   }
 
   .roadmap

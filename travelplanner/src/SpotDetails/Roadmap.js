@@ -1,6 +1,7 @@
 import React from "react";
 import './Roadmap.css';
 import img from './tuxpi.com.1709921349.jpg'
+
 //import Navbar from './navbar/Nav';
 
 function Navbar() {
@@ -14,7 +15,7 @@ function Navbar() {
           <div className="collapse navbar-collapse" id="navbarNavDropdown">
             <ul className="navbar-nav">
               <li className="nav-item">
-                <a className="nav-link active mx-2"  href="#home">HOME</a>
+                <a className="nav-link active mx-2"  href="/home">HOME</a>
               </li>
               <li className="nav-item mx-2">
                 <a className="nav-link" href="#destination" >DESTINATION</a>
